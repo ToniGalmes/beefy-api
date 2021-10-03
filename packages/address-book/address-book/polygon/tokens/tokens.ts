@@ -235,7 +235,7 @@ const _tokens = {
     description:
       'ApeSwap is a leading decentralized exchange (DEX) on Binance Smart Chain and Polygon focused on offering a premier trading experience. Users are incentivized to pool liquidity on ApeSwap through yield farming to earn the native currency, $BANANA. Additionally, apes can use their earned $BANANA to stake and earn other tokens and unlock exclusive features. Built by DeFi apes, for DeFi apes, we have a dedicated team with years of experience who are committed to the DeFi community and growing the ApeSwap Jungle.',
     logoURI:
-      'https://raw.githubusercontent.com/beefyfinance/beefy-app/prod/src/images/degens/BANANA.svg',
+      'https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg',
   },
   BIFI: {
     name: 'beefy.finance',
@@ -1311,7 +1311,7 @@ const _tokens = {
     description:
       'Binance Coin (BNB) is an exchange-based token created and issued by the cryptocurrency exchange Binance. Initially created on the Ethereum blockchain as an ERC-20 token in July 2017, BNB was migrated over to Binance Chain in February 2019 and became the native coin of the Binance Chain.',
     logoURI:
-      'https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
+      'https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
   },
   rBNB: {
     name: 'Relay Bridge Polygon Binance Coin',
@@ -1323,7 +1323,7 @@ const _tokens = {
     description:
       'Binance Coin (BNB) is an exchange-based token created and issued by the cryptocurrency exchange Binance. Initially created on the Ethereum blockchain as an ERC-20 token in July 2017, BNB was migrated over to Binance Chain in February 2019 and became the native coin of the Binance Chain.',
     logoURI:
-      'https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
+      'https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
   },
   PBNB: {
     name: 'Orbit Bridge Polygon Binance Coin',
@@ -1335,7 +1335,7 @@ const _tokens = {
     description:
       'Binance Coin (BNB) is an exchange-based token created and issued by the cryptocurrency exchange Binance. Initially created on the Ethereum blockchain as an ERC-20 token in July 2017, BNB was migrated over to Binance Chain in February 2019 and became the native coin of the Binance Chain.',
     logoURI:
-      'https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
+      'https://pancakeswap.finance/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png',
   },
   YELD: {
     name: 'Polyyeld.Finance',
