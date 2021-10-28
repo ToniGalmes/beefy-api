@@ -151,5 +151,50 @@
     "decimals": "1e18",
     "borrowDepth": 3,
     "borrowPercent": 0.54
+  },
+  {
+    "name": "venus-doge",
+    "vtoken": "0xec3422ef92b2fb59e84c8b02ba73f1fe84ed8d71",
+    "oracle": "tokens",
+    "oracleId": "DOGE",
+    "decimals": "1e18",
+    "borrowDepth": 3,
+    "borrowPercent": 0.54
+  },
+  {
+    "name": "venus-matic",
+    "vtoken": "0x5c9476fcd6a4f9a3654139721c949c2233bbbbc8",
+    "oracle": "tokens",
+    "oracleId": "MATIC",
+    "decimals": "1e18",
+    "borrowDepth": 3,
+    "borrowPercent": 0.54
+  },
+  {
+    "name": "venus-cake",
+    "vtoken": "0x86ac3974e2bd0d60825230fa6f355ff11409df5c",
+    "oracle": "tokens",
+    "oracleId": "CAKE",
+    "decimals": "1e18",
+    "borrowDepth": 3,
+    "borrowPercent": 0.54
+  },
+  {
+    "name": "venus-aave",
+    "vtoken": "0x26da28954763b92139ed49283625cecaf52c6f94",
+    "oracle": "tokens",
+    "oracleId": "AAVE",
+    "decimals": "1e18",
+    "borrowDepth": 3,
+    "borrowPercent": 0.54
+  },
+  {
+    "name": "venus-tusd",
+    "vtoken": "0x08ceb3f4a7ed3500ca0982bcd0fc7816688084c3",
+    "oracle": "tokens",
+    "oracleId": "TUSD",
+    "decimals": "1e18",
+    "borrowDepth": 3,
+    "borrowPercent": 0.54
   }
 ]
